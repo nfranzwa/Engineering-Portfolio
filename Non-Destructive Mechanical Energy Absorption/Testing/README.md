@@ -3,4 +3,5 @@ The structure is auxetic due its negative poisson's ratio where putting the stru
 
 
 https://github.com/user-attachments/assets/e0c1d725-a7ef-44b0-91d4-17e20f60732f
+
 ![halfcycle](https://github.com/user-attachments/assets/60c900e0-859d-47ea-a809-f9c9db1fc14f)
