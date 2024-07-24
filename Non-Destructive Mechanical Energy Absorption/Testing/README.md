@@ -15,4 +15,4 @@ Need to tighten up sinusoid, these flucuations given by bearing slip and small e
 ![134](https://github.com/user-attachments/assets/9112e18e-f74c-467f-8974-61a53bcad566)
 
 ![cq](https://github.com/user-attachments/assets/4bac1a4d-4645-47fc-ba15-fe018ffc428b)
-Forward/Reverse bias against expectation
+Forward/Reverse bias against expectation. We expect the peaks/troughs to be opposite in magnitude as they grow. However in the forwards (tensile) direction, the structure peaks higher than its lows. The opposite phenomenon can be seen in the backwards (compressive) direction. The ideal situation is for the structure to not have a biased direction as the snap-through mechanism is bi-direction, not favoring a specific loading. Most likely the cheap bearings and sub-optimal assembly is causing small slips and bias in the structure.          
