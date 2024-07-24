@@ -9,3 +9,5 @@ https://github.com/user-attachments/assets/e0c1d725-a7ef-44b0-91d4-17e20f60732f
 ![newplotsgg](https://github.com/user-attachments/assets/4e73ddda-9d30-4a54-9194-e71d58a09052)
 
 ![12222](https://github.com/user-attachments/assets/72336c28-10c5-4c27-8f8d-e014e85ab07b)
+
+![134](https://github.com/user-attachments/assets/9112e18e-f74c-467f-8974-61a53bcad566)
