@@ -10,6 +10,8 @@ https://github.com/user-attachments/assets/e0c1d725-a7ef-44b0-91d4-17e20f60732f
 
 ![12222](https://github.com/user-attachments/assets/72336c28-10c5-4c27-8f8d-e014e85ab07b)
 
+Need to tighten up sinusoid, these flucuations given by bearing slip and small error build up in assembly
+
 ![134](https://github.com/user-attachments/assets/9112e18e-f74c-467f-8974-61a53bcad566)
 
 ![cq](https://github.com/user-attachments/assets/4bac1a4d-4645-47fc-ba15-fe018ffc428b)
