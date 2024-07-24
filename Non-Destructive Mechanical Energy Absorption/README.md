@@ -12,4 +12,8 @@ Magnets are utilized to achieve non-destructive mechanical energy absorption. Th
 This assembly creates a snap-through effect where an applied rotational force can be absorped via the magnetic resistance. The snap-through mechanism is most easily understood as a bistable spring like below. There are energy wells where the node assembly tends towards so a rotational force can be continously absorbed/mitigated as it progresses from well to well. 
 ![image](https://github.com/user-attachments/assets/d2c4b185-7717-41c2-8fc1-fc2d5d637716)
 
+We can connect multiple nodes to form a chiral structure that can absorb energy through different loading direction. Below is a video that shows how the nodes reacts under load and the resulting data highlighting the resistance/energy wells.
 
+https://github.com/user-attachments/assets/e0c1d725-a7ef-44b0-91d4-17e20f60732f 
+
+![12222](https://github.com/user-attachments/assets/72336c28-10c5-4c27-8f8d-e014e85ab07b)
