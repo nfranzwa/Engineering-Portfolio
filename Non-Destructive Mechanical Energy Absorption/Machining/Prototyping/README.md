@@ -2,12 +2,7 @@ Two work coordinate offset "simultaneous" machining via G54/G55. Polycarbonate s
 
 <img src="https://github.com/user-attachments/assets/399fcdd3-1dce-41ce-b177-351fdaed5626" alt="IMG_1882" width="600"/>
 
-<video width="600" controls>
-  <source src="https://github.com/user-attachments/assets/b42999ff-ae61-42d9-b68b-e1c38a5ad360" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/b42999ff-ae61-42d9-b68b-e1c38a5ad360
 
-<video width="600" controls>
-  <source src="https://github.com/user-attachments/assets/1c2a48b7-b4d0-4edd-bec2-8a13a5aa5105" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/1c2a48b7-b4d0-4edd-bec2-8a13a5aa5105
