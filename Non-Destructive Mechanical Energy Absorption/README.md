@@ -5,8 +5,11 @@ Over the past decade, researchers have developed mechanical metamaterials, which
 We propose an alternative strategy based on snap-through transitions in the rotational degrees of freedom to create cellular metamaterials capable of energy absorption from mechanical loading along any axis and in any modality. In addition, the adoption of rotation-based snapping elements expands the metamaterial design space from strictly periodic to quasi-periodic, polycrystalline, and amorphous arrangements. 
 ![image](https://github.com/user-attachments/assets/62debbbb-af52-409f-9879-c469a876ca61)
 
-Magnets are utilized to achieve non-destructive mechanical energy absorption. The picture below is a bottom node that has a circular array of magnets. A top node is identical to a bottom node, but the circular array rotated offset such that the center point of a cylinder lies between two other cylinder on the opposite face. A full node has both a bottom and top node. This assembly is represented in the picture above.
+Magnets are utilized to achieve non-destructive mechanical energy absorption. The picture below is a bottom node that has a circular array of magnets. A top node is identical to a bottom node, but the circular array rotated offset such that the center point of a cylinder lies between two other cylinder on the opposite face. A full node has both a bottom and top node. Both the top and bottom nodes have the same poles facing each other, thus repelling. This assembly is represented in the picture above.
 
 <img width="611" alt="Screenshot 2024-07-24 at 11 46 13" src="https://github.com/user-attachments/assets/ccc76e49-e9f9-4d89-b85d-46594f3210d5">
+
+This assembly creates a snap-through effect where an applied rotational force can be absorped via the magnetic resistance. The snap-through mechanism is most easily understood as a bistable spring like below. There are energy wells where the node assembly tends towards so a rotational force can be continously absorbed/mitigated as it progresses from well to well. 
+![image](https://github.com/user-attachments/assets/d2c4b185-7717-41c2-8fc1-fc2d5d637716)
 
 
