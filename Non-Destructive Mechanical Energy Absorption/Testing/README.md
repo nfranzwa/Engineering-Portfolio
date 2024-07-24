@@ -6,5 +6,6 @@ https://github.com/user-attachments/assets/e0c1d725-a7ef-44b0-91d4-17e20f60732f
 
 ![IMG_1960](https://github.com/user-attachments/assets/f351ea4f-a297-4d3a-843e-377e794b7f44)
 
+![newplotsgg](https://github.com/user-attachments/assets/4e73ddda-9d30-4a54-9194-e71d58a09052)
 
-![halfcycle](https://github.com/user-attachments/assets/60c900e0-859d-47ea-a809-f9c9db1fc14f)
+![12222](https://github.com/user-attachments/assets/72336c28-10c5-4c27-8f8d-e014e85ab07b)
