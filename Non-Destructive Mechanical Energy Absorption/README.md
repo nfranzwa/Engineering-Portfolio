@@ -1,1 +1,10 @@
+# Non-destructive Mechanical Energy Absorption
+
+Over the past decade, researchers have developed mechanical metamaterials, which leverage an engineered, highly-tunable microstructure geometry in order to realize an unconventional performance. In the context of energy absorption, cellular metamaterials inherit the low density quality of foams, while enhancing predictabililty and re-usability with ordered microstructures that remain elastic during the loading-unloading process. Although, currently, the energy-absorption capacity is not comparable to conventional materials, cellular metamaterials may serve a complementary or even principal role in absorption applications. However, most of the cellular metamaterials exhibit a significant energy absorption capacity for loads directed along only a single axis. Moreover, despite the complex loading of real-world environments, current designs accommodate either tension, compression, or shear, and thus possess a specialized, rather than general absorption capability. The constraints on the loading direction and mode follows from the utilization of translation-based snapping elements in the metamaterial architecture. A desirable cellular metamaterial will exhibit a universal mechanical energy absorption capability, i.e., effective absorption from loading (i) along any axis and (ii) of any modality.
+
+We propose an alternative strategy based on snap-through transitions in the rotational degrees of freedom to create cellular metamaterials capable of energy absorption from mechanical loading along any axis and in any modality. In addition, the adoption of rotation-based snapping elements expands the metamaterial design space from strictly periodic to quasi-periodic, polycrystalline, and amorphous arrangements. 
+![image](https://github.com/user-attachments/assets/62debbbb-af52-409f-9879-c469a876ca61)
+
+<img width="611" alt="Screenshot 2024-07-24 at 11 46 13" src="https://github.com/user-attachments/assets/ccc76e49-e9f9-4d89-b85d-46594f3210d5">
+
 
