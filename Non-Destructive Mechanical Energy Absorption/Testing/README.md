@@ -3,6 +3,7 @@ The structure is auxetic due its negative poisson's ratio where putting the stru
 
 
 https://github.com/user-attachments/assets/e0c1d725-a7ef-44b0-91d4-17e20f60732f 
+
 ![IMG_1960](https://github.com/user-attachments/assets/f351ea4f-a297-4d3a-843e-377e794b7f44)
 
 
