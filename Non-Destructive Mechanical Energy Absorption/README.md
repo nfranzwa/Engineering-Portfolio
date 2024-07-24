@@ -16,4 +16,4 @@ We can connect multiple nodes to form a chiral structure that can absorb energy 
 
 https://github.com/user-attachments/assets/e0c1d725-a7ef-44b0-91d4-17e20f60732f 
 
-![12222](https://github.com/user-attachments/assets/72336c28-10c5-4c27-8f8d-e014e85ab07b)
+![image](https://github.com/user-attachments/assets/ef758c9e-9f66-4841-b1a8-a769daa91c86)
