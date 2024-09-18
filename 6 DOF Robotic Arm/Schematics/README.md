@@ -58,5 +58,7 @@ This document outlines the pin configurations for our robot project using a RAMP
 - J1 and J4 have dedicated power pins (D10 and D9 respectively) on the RAMPS board that need to be set to ON.
 - J6's inductive sensor is always powered ON.
 - For mechanical switches, both C (Common) and NC (Normally Closed) are wired.
+- Set all microstepping switches to 1 (not 0) to achieve 1/16 microstepping.
+
 
 ![RAMPS 1.4 Pinout](https://github.com/user-attachments/assets/e9fb35c4-472a-451c-9f5b-543ad330c704)
