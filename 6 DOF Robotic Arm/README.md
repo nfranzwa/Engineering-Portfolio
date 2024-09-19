@@ -42,11 +42,6 @@ Here, the arm detects an object, picks it up, and places it in a designated loca
 
 [![Object Detection and Gripper Actuation](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/user-attachments/assets/8c85c374-1d46-4252-8022-c0bc396d2eb2)
 
-### Full Homing Sequence
-This video demonstrates the complete homing sequence:
-
-[![Full Homing Sequence](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/user-attachments/assets/09466da0-1334-4c38-82d4-a613223febb5)
-
 ## Future Improvements
 - Implement trajectory planning for smoother motion
 - Enhance object recognition capabilities
