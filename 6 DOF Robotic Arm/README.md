@@ -1,1 +1,56 @@
-xd
+# 6 DOF Robot Arm Project
+
+## Overview
+This project implements a 6 Degree of Freedom (DOF) robotic arm with advanced control and vision capabilities. The arm combines precision mechanics, sophisticated electronics, and intelligent software to perform complex manipulation tasks.
+
+## Key Features
+- 6 DOF movement for maximum flexibility
+- Inverse kinematics for precise positioning
+- Computer vision for object detection and tracking
+- Gripper control for pick-and-place operations
+- Custom GUI for easy control and monitoring
+
+## Hardware
+- Custom-designed 3D printed parts
+- 6 stepper motors with TMC2209 drivers
+- BLDC motor for the gripper
+- Arduino-based control system
+- Limit switches and sensors for homing and positioning
+
+## Software
+- Python-based main control software
+- OpenCV for image processing and object detection
+- Custom inverse kinematics solver
+- Arduino firmware for low-level motor control
+- PyQt5 GUI for user interaction
+
+## Key Functionalities
+1. **Precision Movement**: Utilizes inverse kinematics to accurately position the end effector.
+2. **Object Detection**: Employs computer vision to identify and locate objects in the workspace.
+3. **Pick and Place**: Combines vision and motion control for automated pick-and-place tasks.
+4. **Homing Sequence**: Implements a robust homing routine for consistent positioning.
+
+## Demonstrations
+
+### Move Demo
+This video showcases the arm's precise movement capabilities:
+
+[![Move Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/user-attachments/assets/76c58376-af98-44d1-89f5-d9b5ce975651)
+
+### Object Detection and Gripper Actuation
+Here, the arm detects an object, picks it up, and places it in a designated location:
+
+[![Object Detection and Gripper Actuation](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/user-attachments/assets/8c85c374-1d46-4252-8022-c0bc396d2eb2)
+
+### Full Homing Sequence
+This video demonstrates the complete homing sequence:
+
+[![Full Homing Sequence](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/user-attachments/assets/09466da0-1334-4c38-82d4-a613223febb5)
+
+## Future Improvements
+- Implement trajectory planning for smoother motion
+- Enhance object recognition capabilities
+- Develop more complex manipulation tasks
+
+## Acknowledgements
+This project builds upon various open-source libraries and tools. Special thanks to the contributors of AccelStepper, OpenCV, and PyQt5.
