@@ -2,6 +2,7 @@
 
 ## Overview
 This project implements a 6 Degree of Freedom (DOF) robotic arm with advanced control and vision capabilities. The arm combines custom software, CAD models, and easily accesible hardware, to perform complex manipulation tasks.
+![IMG_3204](https://github.com/user-attachments/assets/6418f20c-f2b9-46b2-b623-9847ae49599c)
 
 ## Key Features
 - 6 DOF movement for maximum flexibility
