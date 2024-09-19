@@ -30,6 +30,20 @@ This project implements a 6 Degree of Freedom (DOF) robotic arm with advanced co
 3. **Pick and Place**: Combines vision and motion control for automated pick-and-place tasks.
 4. **Homing Sequence**: Implements a robust homing routine for consistent positioning.
 
+## Wiring and Pin Configuration
+The robot uses a RAMPS 1.4 board with TMC2209 motor controllers. Here's an overview of the pin configuration:
+
+- 6 TMC2209 motor controllers (5 on RAMPS 1.4, 1 on external board)
+- 3 inductive sensors and 3 mechanical switches for limit detection
+- Specific joint configurations (examples):
+  - J1 (Base Joint): STEP_PIN: 54, DIR_PIN: 55, ENABLE_PIN: 38, Limit Switch: Pin 5
+  - J2: STEP_PIN: 60, DIR_PIN: 61, ENABLE_PIN: 56, Limit Switch: Pin 3
+  - (Other joints configured similarly)
+
+![RAMPS 1.4 Pinout](https://github.com/user-attachments/assets/e9fb35c4-472a-451c-9f5b-543ad330c704)
+
+For detailed pin assignments and wiring instructions, please refer to the `pins.h` file in the project repository.
+
 ## Demonstrations
 
 ### Move Demo
