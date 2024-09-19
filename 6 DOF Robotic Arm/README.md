@@ -1,7 +1,7 @@
-# 6 DOF Robot Arm Project
+# Custom 6 Degree of Freedom Robot Arm 
 
 ## Overview
-This project implements a 6 Degree of Freedom (DOF) robotic arm with advanced control and vision capabilities. The arm combines precision mechanics, sophisticated electronics, and intelligent software to perform complex manipulation tasks.
+This project implements a 6 Degree of Freedom (DOF) robotic arm with advanced control and vision capabilities. The arm combines custom software, CAD models, and easily accesible hardware, to perform complex manipulation tasks.
 
 ## Key Features
 - 6 DOF movement for maximum flexibility
@@ -61,5 +61,3 @@ Here, the arm detects an object, picks it up, and places it in a designated loca
 - Enhance object recognition capabilities
 - Develop more complex manipulation tasks
 
-## Acknowledgements
-This project builds upon various open-source libraries and tools. Special thanks to the contributors of AccelStepper, OpenCV, and PyQt5.
