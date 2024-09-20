@@ -1,8 +1,9 @@
 # Custom Electric Skateboard
-Custom 12s3p Samsung 40T Cells 
-Focbox Unity speed controller
-Custom aluminum machined motor mount bracket
-Pulley and belt driven
+
+- Battery: 12s3p Samsung 40T Cells
+- Speed Controller: Focbox Unity
+- Motor Mount: Custom aluminum machined bracket
+- Drive System: Pulley and belt driven
 
 # Pictures
 
