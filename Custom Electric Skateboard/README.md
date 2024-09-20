@@ -2,7 +2,7 @@
 
 - Battery: 12s3p Samsung 40T Cells
 - Speed Controller: Focbox Unity
-- Motor Mount: Custom aluminum machined bracket
+- Motor Mount: OEM bracket
 - Drive System: Pulley and belt driven
 
 # Pictures
