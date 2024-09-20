@@ -35,37 +35,5 @@ This project is a custom-built heated insert press designed to make installing h
 
 ![Side View of the Press](https://github.com/user-attachments/assets/ef4c0d66-41f9-4224-82ee-b7352c712e18)
 
-## Required Components
 
-- 2020 Aluminum Extrusion
-- M4 button head screws
-- M4 Slim T-Nuts
-- Ball bearings and wheels for the carriage
-- Soldering iron (60W recommended)
-- Heat-set installation tips
-- 3D printed parts (STL files provided)
-- Wood for the base platform
-- Paracord and pulley for the counterweight system
 
-## Assembly
-
-Detailed assembly instructions will be provided in the project documentation. The design is modular and can be modified to work with different components if needed.
-
-## Usage
-
-1. Secure your 3D printed part to the wooden platform.
-2. Lower the heated tip onto the insert.
-3. Apply gentle pressure to melt the plastic and push the insert into place.
-4. Allow the insert to cool before removing the part.
-
-## Contributing
-
-Contributions to improve the design or documentation are welcome. Please submit a pull request or open an issue to discuss proposed changes.
-
-## License
-
-This project is licensed under the Creative Commons - Attribution license.
-
-## Acknowledgements
-
-This project was inspired by the need for precise and consistent heat-set insert installation in 3D printed parts. Special thanks to the 3D printing community for their ongoing support and inspiration.
