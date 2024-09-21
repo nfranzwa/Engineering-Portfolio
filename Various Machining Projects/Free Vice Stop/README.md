@@ -4,7 +4,7 @@
 
 This project presents a custom-designed CNC stop system, engineered to enhance precision and efficiency in CNC machining operations. The system consists of a stop joint, connecting rods, and a clamp strap, working together to provide adjustable and reliable workpiece positioning.
 
-![Full Assembly](path_to_full_assembly_image.jpg)
+![Full Assembly](https://github.com/user-attachments/assets/63db1f69-906b-4a84-bc2d-41ea92ec861a)
 
 ## Components
 
@@ -32,7 +32,7 @@ This project presents a custom-designed CNC stop system, engineered to enhance p
 
 ## Assembly
 
-![CAD of Stop Joint](path_to_cad_image.jpg)
+![CAD of Stop Joint](https://github.com/user-attachments/assets/72403432-601a-43c6-87f6-a43ee3391d09)
 
 The stop joint is the core component, connecting:
 1. The clamp strap (attached to the CNC table) via an aluminum pipe
@@ -40,9 +40,21 @@ The stop joint is the core component, connecting:
 
 This design allows for both stability and adjustability in positioning the workpiece stop.
 
+### Stop Joint Engineering Drawing
+
+![Stop Joint Engineering Drawing](https://github.com/user-attachments/assets/35972d2f-c3a7-432d-b207-cab16cd25f21)
+
+The engineering drawing above provides detailed specifications for the stop joint, including:
+- Overall dimensions
+- Hole placements and sizes
+- Material specifications
+- Tolerances
+
+This drawing serves as a reference for manufacturing or modifying the stop joint to suit specific needs.
+
 ## Installation
 
-![Installed System](path_to_installed_image.jpg)
+![Installed System](https://github.com/user-attachments/assets/14695dae-2391-4888-a03f-94b85d9fe193)
 
 1. Attach the clamp strap to the CNC table using the provided bolt and T-nut
 2. Connect the aluminum pipe to the clamp strap and the stop joint
@@ -60,6 +72,7 @@ This design allows for both stability and adjustability in positioning the workp
 The modular design of this system allows for easy customization:
 - Adjust rod lengths for different table sizes or stop distances
 - Modify the stop joint design for specific application needs
+- Refer to the provided engineering drawing for precise modifications to the stop joint
 
 ## Contributing
 
