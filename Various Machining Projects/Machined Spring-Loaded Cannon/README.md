@@ -18,11 +18,11 @@ This project involves the design and fabrication of a precision-engineered, spri
 
 ### CNC Machining
 - **Body and Barrel**: Programmed and machined using Fusion360 CAM
-  - Machine: Tormach 15L Lathe
-- **Barrel**: Additional work on Tormach 440 Mill
+  - **Body**: Machined on Tormach 440 Mill 
+  - **Barrel**: Machined on Tormach 15L Lathe 
 
 ### Manual Machining
-- **Barrel Rod**: Manually machined on lathe/mill
+- **Barrel Rod**: Manually machined on lathe
 - **Uprights**: Manually machined on mill
 - **Base Plate**: Manually machined on mill
 
@@ -45,10 +45,3 @@ This project involves the design and fabrication of a precision-engineered, spri
 5. Precision Measurement and Quality Control
 6. Assembly and Integration of Mechanical Components
 
-## Safety Note
-
-This project is intended for educational and demonstration purposes only. Always follow proper safety procedures when operating machinery and handling projectile devices.
-
----
-
-For more information on the design and manufacturing process, please feel free to reach out or check the project documentation.
