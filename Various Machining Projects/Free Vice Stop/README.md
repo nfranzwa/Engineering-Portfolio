@@ -66,17 +66,3 @@ This drawing serves as a reference for manufacturing or modifying the stop joint
 2. Adjust the threaded rod to set the desired stop position for your workpiece
 3. Secure your workpiece against the stop for consistent positioning across multiple operations or pieces
 
-## Customization
-
-The modular design of this system allows for easy customization:
-- Adjust rod lengths for different table sizes or stop distances
-- Modify the stop joint design for specific application needs
-- Refer to the provided engineering drawing for precise modifications to the stop joint
-
-## Contributing
-
-Contributions to improve the design or expand its applications are welcome. Please submit pull requests or open issues to discuss potential changes.
-
-## License
-
-[Specify your chosen license here]
