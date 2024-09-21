@@ -25,7 +25,6 @@ This project presents a custom-designed CNC stop system, engineered to enhance p
 
 4. **Threaded Rod**:
    - Adjustable component for fine-tuning the stop position
-   - OEM part
 
 5. **Hardware**:
    - Bolts, T-nuts: OEM components used for secure attachment to the CNC table
