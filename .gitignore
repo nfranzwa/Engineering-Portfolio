@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Arduino build artifacts
+*.hex
+*.elf
+build/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# Blender autosaves
+*.blend1
+*.blend2
+
+# MATLAB / Simulink cache + build
+*.slxc
+slprj/
+*.asv
+*.autosave
