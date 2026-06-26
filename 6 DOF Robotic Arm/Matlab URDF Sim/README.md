@@ -7,7 +7,7 @@ Standalone kinematic simulator for the arm, independent from the physical robot'
 | File | Role |
 |---|---|
 | `arm.urdf` | URDF model of the 6-DOF arm |
-| `L1.STL` – `L6.STL` | Link meshes referenced by the URDF |
+| `L1.STL` through `L6.STL` | Link meshes referenced by the URDF |
 | `arm.slx` | Simulink model wrapping the URDF with Slider Gain blocks per joint |
 | `DHpara.mat` | DH parameters used by the kinematic blocks |
 | `RobotSim.m` | Core simulation logic |

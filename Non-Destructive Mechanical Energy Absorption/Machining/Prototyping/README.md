@@ -1,4 +1,4 @@
-# Prototyping — Two-WCS Simultaneous Machining
+# Prototyping: Two-WCS Simultaneous Machining
 
 Polycarbonate squares were waterjet-cut, then placed into custom soft-jaws that hold both the blank and the first-operation part at the same time. This two-work-coordinate-offset setup roughly halves cycle time and lets the limited shop tooling produce consistent fits before committing to a higher-volume run.
 

@@ -78,9 +78,9 @@ J1 ±123.05 · J2 [-55.01, +86.63] · J3 [-72.13, +107.87] · J4 ±105.47 · J5 
 
 ## Demos
 
-- [Move demo](https://github.com/user-attachments/assets/76c58376-af98-44d1-89f5-d9b5ce975651) — IK + AccelStepper smooth motion to commanded (X, Y, Z)
-- [Object detection + pick-and-place](https://github.com/user-attachments/assets/8c85c374-1d46-4252-8022-c0bc396d2eb2) — OpenCV finds object, host computes IK, firmware executes
-- [Full homing sequence](https://github.com/user-attachments/assets/09466da0-1334-4c38-82d4-a613223febb5) — Fast approach → trigger → back off → slow re-approach for repeatable zero
+- [Move demo](https://github.com/user-attachments/assets/76c58376-af98-44d1-89f5-d9b5ce975651): IK + AccelStepper smooth motion to commanded (X, Y, Z)
+- [Object detection + pick-and-place](https://github.com/user-attachments/assets/8c85c374-1d46-4252-8022-c0bc396d2eb2): OpenCV finds object, host computes IK, firmware executes
+- [Full homing sequence](https://github.com/user-attachments/assets/09466da0-1334-4c38-82d4-a613223febb5): fast approach, trigger, back off, slow re-approach for repeatable zero
 
 ![Electronics](https://github.com/user-attachments/assets/5dd10d63-feb1-4a9c-b234-279e1b881540)
 ![Build](https://github.com/user-attachments/assets/99c5d5a8-d399-4f37-b20c-db5fae20546b)

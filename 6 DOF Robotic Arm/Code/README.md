@@ -6,7 +6,7 @@ Two-part control system: Arduino firmware on the arm + Python host running IK, G
 
 | File | Role |
 |---|---|
-| `fullcntl.ino` | Arduino Mega firmware. Owns motion, homing, limit-switch handling, BLDC gripper. AccelStepper for J1–J6, SimpleFOC for gripper. Parses serial commands. |
+| `fullcntl.ino` | Arduino Mega firmware. Owns motion, homing, limit-switch handling, BLDC gripper. AccelStepper for J1-J6, SimpleFOC for gripper. Parses serial commands. |
 | `fullcntl.py` | Host-side PyQt5 GUI. Forward + inverse kinematics (DH-param L-BFGS-B). Vision thread. Sends serial commands to firmware. |
 | `pins.h` | All STEP / DIR / ENABLE / limit-switch / sensor-power pins per joint. |
 | `motorcst.h` | Microstepping, step angle, per-joint gear ratios, home / target / back-off angles, BLDC voltage states. |

@@ -1,6 +1,6 @@
 # Various Machining Projects
 
-Smaller machining work — manual mill, manual lathe, Tormach CNC, and waterjet.
+Smaller machining work: manual mill, manual lathe, Tormach CNC, and waterjet.
 
 | Project | Stack | Summary |
 |---|---|---|

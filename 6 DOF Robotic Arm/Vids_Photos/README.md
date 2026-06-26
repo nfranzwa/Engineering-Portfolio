@@ -20,6 +20,6 @@ https://github.com/user-attachments/assets/8c85c374-1d46-4252-8022-c0bc396d2eb2
 
 ## Full homing sequence
 
-Each joint: fast approach to limit switch → back off `backOffAngle` → slow re-approach for repeatable zero. J1–J3 home in parallel, then J4 + J6 in parallel, then J5. After homing, joints drive to per-joint `targetAngle` from `motorcst.h`.
+Each joint: fast approach to limit switch → back off `backOffAngle` → slow re-approach for repeatable zero. J1-J3 home in parallel, then J4 + J6 in parallel, then J5. After homing, joints drive to per-joint `targetAngle` from `motorcst.h`.
 
 https://github.com/user-attachments/assets/09466da0-1334-4c38-82d4-a613223febb5

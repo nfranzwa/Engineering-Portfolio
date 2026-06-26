@@ -4,7 +4,7 @@
 
 | Folder | Parts |
 |---|---|
-| `Assembly/` | `Bare_assembly.stl` — full arm bare-assembly reference |
+| `Assembly/` | `Bare_assembly.stl`: full arm bare-assembly reference |
 | `Base/` | `J1_Base`, `J1_backplate`, `J1_rotation_shaft`, `J1_turret_motor_holder` |
 | `Shoulder/` | `J1_turret`, `J2_limit_switch_cover`, `J2_stopper_block` |
 | `Upper_Arm/` | `J2J3_upper_arm`, `J2_shaft`, `J2_wire_cover`, `J3_limit_switch_cover`, `J3_pulley1`, `J3_pulley2` |

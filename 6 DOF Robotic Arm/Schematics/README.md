@@ -50,7 +50,7 @@ Wiring map for the arm: 6 stepper drivers + 6 limit / proximity sensors. Mirrore
 
 ## Reference files
 
-- `RAMPS 1.4 - RepRap.pdf` — full RepRap schematic
-- `ramps_1.4_pinout.jpg` — quick pinout reference
+- `RAMPS 1.4 - RepRap.pdf`: full RepRap schematic
+- `ramps_1.4_pinout.jpg`: quick pinout reference
 
 ![RAMPS 1.4 Pinout](https://github.com/user-attachments/assets/e9fb35c4-472a-451c-9f5b-543ad330c704)
