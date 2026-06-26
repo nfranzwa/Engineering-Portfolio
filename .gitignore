@@ -33,3 +33,12 @@ desktop.ini
 slprj/
 *.asv
 *.autosave
+
+# Non-Destructive Mechanical Energy Absorption — local-only sim and Blender work
+Non-Destructive Mechanical Energy Absorption/sim_plots/
+Non-Destructive Mechanical Energy Absorption/*.py
+Non-Destructive Mechanical Energy Absorption/*.blend
+Non-Destructive Mechanical Energy Absorption/*.blend1
+Non-Destructive Mechanical Energy Absorption/*.blend2
+Non-Destructive Mechanical Energy Absorption/*.png
+Non-Destructive Mechanical Energy Absorption/__pycache__/
